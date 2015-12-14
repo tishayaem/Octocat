@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branching allows to implement a new feature not affecting original branch
