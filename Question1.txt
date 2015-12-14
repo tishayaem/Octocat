@@ -1,1 +1,1 @@
-git clone creates local repository that is a clone of remote repository
+git clone creates local repository that is a clone of remote repository.
