@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+We use upstream to keep our local copy in sync with the project we want to contribute to
